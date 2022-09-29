@@ -1,3 +1,6 @@
+# -item4(ng-content)
+En este ejersicio se podra visualizar las 2 proyecciones de una etiqueta Div y P
+
 # NgContent
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.1.
